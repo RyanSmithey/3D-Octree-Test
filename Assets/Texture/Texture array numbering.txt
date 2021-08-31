@@ -1,0 +1,11 @@
+Asphalt			= 001
+Brick Wall 		= 002
+Cement Brick wall	= 003
+Cliff Face mossy	= 004
+Cliff Face Normal	= 005
+Concrete Wall		= 006
+Dirt			= 007
+Dirt Wall		= 008
+Gravel 			= 009
+Sand			= 010
+Tile Roof		= 011
